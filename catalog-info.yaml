@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tenant-config-generator
+  links:
+    - url: http://localhost:3080
+      title: Tenant Config Generator
+      icon: dashboard
+  annotations:
+    github.com/project-slug: daniel-wakefield-ro/tenant-config-generator
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: development
+  owner: user:daniel-wakefield-ro

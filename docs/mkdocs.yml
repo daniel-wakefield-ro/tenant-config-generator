@@ -1,0 +1,14 @@
+site_name: 'my-react-app'
+site_description: 'Basic React App'
+
+nav:
+  - Home: index.md
+  - Catalog: ../catalog-info.yaml
+
+plugins:
+  - techdocs-core
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
