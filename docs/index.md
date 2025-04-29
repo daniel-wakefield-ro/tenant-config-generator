@@ -1,4 +1,4 @@
-# my-react-app
+# Tenant Config Generator
 
 Welcome to the TechDocs for Tenant Config Generator!
 
